@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color:darkgreen;
+}
+
 .btn-container{
     height: 200px;
     position: relative;
-    /* background-color: aqua; */
 }
 
 .btn-vertical-center{
@@ -39,3 +42,8 @@ button{
     object-fit: cover;
 }
 
+p{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
