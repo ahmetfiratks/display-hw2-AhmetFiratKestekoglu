@@ -22,3 +22,10 @@ button{
     padding: 20px;
     font-size: 25px;
 }
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
